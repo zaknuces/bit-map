@@ -1,0 +1,26 @@
+{
+  "name": "bit-map",
+  "version": "1.0.0",
+  "description": "Bit Map is a hybrid data structure that uses bit manipulation and maps to provide efficient storage and access. The library is ideal for scenarios like parking lot, shelf management etc.",
+  "main": "src/bitMap.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaknuces/bit-map.git"
+  },
+  "keywords": [
+    "bit-map"
+  ],
+  "author": "Owais Zahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaknuces/bit-map/issues"
+  },
+  "homepage": "https://github.com/zaknuces/bit-map#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
